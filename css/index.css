@@ -3,14 +3,23 @@
 
 :root {font-family: 'Montserrat', sans-serif;
 }
-.menu a{
+header {
+    background-image: url(../img/background-start.jpg);
+
+}
+.menu a {
     display: block;
     font-size:17px;
     color:beige;
     text-transform: uppercase;
     text-decoration: none;
 }
-.social a img{
+.menu a:hover {
+    font-size:17px;
+    color:saddlebrown;
+}
+
+.social a img {
     display: block;
     width: 30px;
     height: 30px;
