@@ -81,10 +81,6 @@ h1 h2 {
     height: auto;
     margin: 26.8px 0px;
 }
-@media(max-width:320px){
-h1 h2 .buttons{
-}
-}
 .line {
     color: orange;
 }
